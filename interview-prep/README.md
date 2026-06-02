@@ -3,8 +3,6 @@
 Two pattern-first, interactive study courses for software-engineering coding-interview
 prep, hosted as static HTML on GitHub Pages.
 
-**Live site:** https://tolamson.github.io/interview-prep/
-
 ## Courses
 
 - **[Data Structures & Algorithms](dsa/index.html)** — 42 lessons covering the ~20
@@ -16,13 +14,6 @@ prep, hosted as static HTML on GitHub Pages.
   estimation through real designs (rate limiter, message queues, consistent hashing, news
   feed, payment system, order-matching engine). See the
   [System Design roadmap](system-design/system-design-roadmap-v2.html).
-
-## How to use
-
-Open the [live site](https://tolamson.github.io/interview-prep/) on any device and click into
-a course. Each lesson is a single self-contained HTML page — many diagrams are interactive
-(press **Play** or step through with **Next**). On a phone, use **Add to Home Screen** for
-one-tap access.
 
 ## Notes
 
